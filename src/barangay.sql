@@ -9998,8 +9998,7 @@ INSERT INTO barangay (`id`, `municipality_id`, `description`) VALUES
 	(10033, 388, 'Fatima III'),
 	(10061, 388, 'H-2'),
 	(9989, 388, 'Langkaan I'),
-	(10034, 388, 'Langkaan II');
-INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`) VALUES
+	(10034, 388, 'Langkaan II'),
 	(10004, 388, 'Luzviminda I'),
 	(10035, 388, 'Luzviminda II'),
 	(9990, 388, 'Paliparan I'),
@@ -19999,8 +19998,7 @@ INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`)
 	(19997, 752, 'Pajo'),
 	(19998, 752, 'Pandan'),
 	(19999, 752, 'Panuran'),
-	(20000, 752, 'Pasig');
-INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`) VALUES
+	(20000, 752, 'Pasig'),
 	(20001, 752, 'Patag'),
 	(20002, 752, 'Poblacion Ilawod'),
 	(20003, 752, 'Poblacion Ilaya'),
@@ -30000,8 +29998,7 @@ INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`)
 	(29995, 1120, 'Lower Pulacan'),
 	(30007, 1120, 'Lower Sang-an'),
 	(29996, 1120, 'New Labangan'),
-	(29997, 1120, 'Noboran');
-INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`) VALUES
+	(29997, 1120, 'Noboran'),
 	(29998, 1120, 'Old Labangan'),
 	(29999, 1120, 'San Isidro'),
 	(30000, 1120, 'Santa Cruz'),
@@ -40001,8 +39998,7 @@ INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`)
 	(39997, 1520, 'Gawang'),
 	(39998, 1520, 'Kabengi'),
 	(39999, 1520, 'Kitango'),
-	(40000, 1520, 'Kitapok');
-INSERT INTO `table_barangay` (`barangay_id`, `municipality_id`, `barangay_name`) VALUES
+	(40000, 1520, 'Kitapok'),
 	(40001, 1520, 'Madia'),
 	(40002, 1520, 'Salbu'),
 	(40003, 1521, 'Bulayan'),
