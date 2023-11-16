@@ -1,4 +1,4 @@
-INSERT INTO municipality (`id`, `province_id`, `description`) VALUES
+INSERT INTO locality (`id`, `province_id`, `description`) VALUES
 (1, 2, 'Adams'),
 (2, 2, 'Bacarra'),
 (3, 2, 'Badoc'),
@@ -1400,7 +1400,7 @@ INSERT INTO municipality (`id`, `province_id`, `description`) VALUES
 (1399, 68, 'Itogon'),
 (1400, 68, 'Kabayan'),
 (1401, 68, 'Kapangan'),
-1402, 68, 'Kibungan'),
+(1402, 68, 'Kibungan'),
 (1403, 68, 'La Trinidad'),
 (1404, 68, 'Mankayan'),
 (1405, 68, 'Sablan'),
